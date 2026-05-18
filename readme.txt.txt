@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author:Nihad
+Author:Nihad Malba
 Twitter:@nihadnafiq
